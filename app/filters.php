@@ -34,7 +34,7 @@ App::after(function($request, $response) {
 Route::filter('auth.custom', function() {
     if (!Confide::user()) {
 
-       
+       $abc='git variable';
         return Redirect::to('/');
 
     }
