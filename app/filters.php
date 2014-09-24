@@ -38,7 +38,7 @@ Route::filter('auth.custom', function() {
         return Redirect::to('/');
 
     }
-    $another='this iss another vaiafdble';
+    $another='tasdfasdfadfs';
 
 //        return Redirect::guest('users/login');
 //		if (Request::ajax())
