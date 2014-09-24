@@ -34,11 +34,11 @@ App::after(function($request, $response) {
 Route::filter('auth.custom', function() {
     if (!Confide::user()) {
 
-       $abc='git variable changed';
+       
         return Redirect::to('/');
 
     }
-    $local='this is loval variable changed';
+    
 
 //        return Redirect::guest('users/login');
 //		if (Request::ajax())

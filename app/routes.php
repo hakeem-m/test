@@ -14,7 +14,7 @@ Route::group(array('before' => 'auth.custom'), function() {
 
     //route for index page, call index method of controller
     Route::get('/dashboard', 'UrlsController@index');
-
+          
 
     Route::model('url', 'Url');
     // route for long to short URL conversion.
@@ -86,5 +86,4 @@ Route::get('users/reset_password/{token}', 'UsersController@resetPassword');
 Route::post('users/reset_password', 'UsersController@doResetPassword');
 Route::get('users/logout', 'UsersController@logout');
 
-Route::get('users/acs', 'UsersController@acd');
 
