@@ -1,0 +1,179 @@
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+
+Notice: Use of undefined constant T_YIELD - assumed 'T_YIELD' in C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php on line 1125
+
+Call Stack:
+    0.0080     591952   1. {main}() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:0
+    0.0090     622048   2. CodeFormatter->formatCode() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:1736
+    0.0290     760984   3. ResizeSpaces->format() C:\Users\muhammad.hakeem\AppData\Roaming\Sublime Text 3\Packages\PHPTools\php.tools\codeFormatter.php:326
+
+ <?php
+
+use Zizaco\Confide\ConfideUser;
+use Zizaco\Confide\ConfideUserInterface;
+use Zizaco\Entrust\HasRole;
+
+class User extends Eloquent implements ConfideUserInterface {
+	use ConfideUser;
+	use HasRole;// Add this trait to your user model
+
+}
