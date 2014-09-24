@@ -33,7 +33,7 @@ App::after(function($request, $response) {
 
 Route::filter('auth.custom', function() {
     if (!Confide::user()) {
-        return Redirect::to('/');
+        return Redirect::to('/index');
     }
 
 //        return Redirect::guest('users/login');
