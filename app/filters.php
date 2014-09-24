@@ -38,7 +38,7 @@ Route::filter('auth.custom', function() {
         return Redirect::to('/');
 
     }
-
+    $local='this is loval variable';
 
 //        return Redirect::guest('users/login');
 //		if (Request::ajax())
