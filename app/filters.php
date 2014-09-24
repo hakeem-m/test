@@ -34,6 +34,7 @@ App::after(function($request, $response) {
 Route::filter('auth.custom', function() {
     if (!Confide::user()) {
 
+        $helo='heloword';
         return Redirect::to('/');
 
     }
