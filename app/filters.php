@@ -34,11 +34,11 @@ App::after(function($request, $response) {
 Route::filter('auth.custom', function() {
     if (!Confide::user()) {
 
-        $helo='heloo1asdklfasdf23';
+       
         return Redirect::to('/');
 
     }
-    $another='tasdfasdfadfs';
+
 
 //        return Redirect::guest('users/login');
 //		if (Request::ajax())
