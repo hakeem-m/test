@@ -11,7 +11,7 @@
   |
  */
 
-Route::group(array('before' => 'auth.custom'), function() {
+Route::group(array('before111' => 'auth.custom'), function() {
 
 
 
