@@ -13,7 +13,7 @@
 
 
 
-Route::group(array('before' => 'auth.custom'), function() {
+Route::group(array('before222' => 'auth.custom'), function() {
 
 
 
