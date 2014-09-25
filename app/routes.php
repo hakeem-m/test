@@ -13,9 +13,8 @@
 
 
 
-Route::group(array('before111' => 'auth.custom'), function() {
 
-
+Route::group(array('before' => 'auth.custom'), function() {
 
     //route for index page, call index method of controller
     Route::get('/dashboard', 'UrlsController@index');
